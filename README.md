@@ -2,8 +2,11 @@
 
 Este repositorio proporciona un ejemplo de configuración para la replicación MySQL utilizando contenedores Docker. Se incluyen dos configuraciones: `estrella` y `copo`.
 
-## Configuración Estrella
+## Requisitos Previos
 
+Antes de comenzar, asegúrate de tener instalado Docker en tu sistema. Puedes descargar Docker desde [https://www.docker.com/get-started](https://www.docker.com/get-started).
+
+## Configuración Estrella
 ### Crear la red de Docker
 
 ```bash
